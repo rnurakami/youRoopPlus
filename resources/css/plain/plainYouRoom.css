@@ -1,0 +1,124 @@
+body {
+    font-family: none !important;
+}
+body.pc #container #column1, body#contents #column1 {
+    width: 608px !important;
+}
+body.pc #container #column2, #column2 {
+    width: 340px !important;
+}
+body.pc {
+    background: url(http://dl.dropbox.com/u/8357078/youRoom/thema/professional/bg-head.png) repeat-x top #F4F4F4 !important;
+}
+#container, #contents-container {
+    background: url(http://dl.dropbox.com/u/8357078/youRoom/thema/professional/bg-3column.png) repeat-y !important;
+}
+#contents {
+    background: url(http://dl.dropbox.com/u/8357078/youRoom/thema/professional/bg-head-contents.png) repeat-x !important;
+}
+#column3 {
+    display: none !important;
+}
+#container-setting {
+    background: white !important;
+}
+#home-h2 {
+    background: none !important;
+    background-color: #1e4594 !important;
+}
+#register-left p img {
+    display: none !important;
+}
+#room-name a {
+    color: white !important;
+}
+#top-alert-login-area p {
+    display: none !important;
+}
+.action-wrapper ul.category {
+    margin-left: 0px !important;
+}
+.comment-container {
+    background-image: url(http://dl.dropbox.com/u/8357078/youRoom/thema/professional/bg-balloon-foot1.png) !important;
+}
+.comment-wrapper-lv1 .comment-balloon {
+    background-image: url(http://dl.dropbox.com/u/8357078/youRoom/thema/professional/bg-balloon-1.png) !important;
+}
+.comment-wrapper-lv2 .comment-balloon {
+    background: rgba(200,200,200,0.5) !important;
+}
+.comment-wrapper-lv2, .comment-wrapper-lv3, .comment-wrapper-lv4, .comment-wrapper-lv5 {
+    background-image: none !important;
+}
+.comment-wrapper-lv3 .comment-balloon, .comment-wrapper-lv4 .comment-balloon, .comment-wrapper-lv5 .comment-balloon {
+    background: rgba(200,200,230, 0.3) !important;
+}
+.entry-wrapper .entry-area {
+    margin-left: 0 !important;
+}
+.entry-wrapper .entry-info {
+    width: 550px !important;
+}
+.entry-wrapper .entry-info .topic_top_action .comments-number-area p.commnents-number {
+    color: read !important;
+}
+.my-groups a.group:hover, #invited-rooms a.group:hover {
+    background: #b7c0c2 !important;
+}
+#contents-tab-nav {
+    background: none !important;
+    background-color: #1e4594 !important;
+}
+div.above-balloon {
+    display: none !important;
+}
+div.comment-img p a img {
+    height: 14px !important;
+    width: 15px !important;
+}
+div.entry-info ul {
+    width: 400px !important;
+}
+div.green_frame_s1 {
+    width: 700px !important;
+}
+div.movie {
+    display: none !important;
+}
+div.movie iframe {
+    display: none !important;
+}
+div.room-name .fit {
+    display: none !important;
+}
+div.room-name a {
+    background-color: #b7c0c2 !important;
+    color: #080108 !important;
+    font-size: 11px !important;
+    font-variant: normal !important;
+    font-weight: bold !important;
+    letter-spacing: 0.2em !important;
+    line-height: 1.5em !important;
+}
+span.unread-message {
+    background-color: #1e4594 !important;
+}
+p.btn-comments a, p.btn-edit a, p.btn-delete a {
+    background: none !important;
+}
+p.entry-img, p.entry-img .fit {
+    height: 1em !important;
+    width: 1em !important;
+}
+p.comments-number {
+    background: url(http://dl.dropbox.com/u/8357078/youRoom/thema/professional/bg-comment.png) !important;
+    background-repeat: no-repeat !important;
+    color: #f01d28 !important;
+}
+.my-groups a.group, #invited-rooms {
+    background: url(http://dl.dropbox.com/u/8357078/youRoom/thema/professional/line-column2.png) repeat-x bottom !important;
+}
+#direct-message-h2 {
+    background: none !important;
+    background-color: #1e4594 !important;
+}

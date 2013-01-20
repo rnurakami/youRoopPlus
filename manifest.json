@@ -1,0 +1,22 @@
+{
+	"name": "Plain youRoom",
+	"version": "0.0.1",
+	"manifest_version": 2,
+	"description": "控えめな印象のyouRoom",
+	"icons": {
+		"48": "resources/images/icon/icon.gif",
+		"128": "resources/images/icon/icon.gif"
+	},
+	"page_action": {
+		"default_title": "Plain youRoom",
+		"default_icon": { 
+			"19": "resources/images/icon/icon.gif" 
+		}
+	},
+	"background": {
+		"scripts": ["src/background.js"]
+	},
+	"permissions": [
+		"tabs", "https://*/*", "http://*/*"
+	]
+}
