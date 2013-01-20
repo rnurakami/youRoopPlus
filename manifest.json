@@ -1,8 +1,8 @@
 {
-	"name": "Plain youRoom",
+	"name": "youRoomPlus",
 	"version": "0.0.1",
 	"manifest_version": 2,
-	"description": "控えめな印象のyouRoom",
+	"description": "控えめな印象のyouRoomになります。",
 	"icons": {
 		"48": "resources/images/icon/icon.gif",
 		"128": "resources/images/icon/icon.gif"
